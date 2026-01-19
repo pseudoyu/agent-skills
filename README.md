@@ -32,7 +32,7 @@ Solidity smart contract gas optimization guidelines based on RareSkills. Contain
 Install skills using the CLI:
 
 ```bash
-npx add-skill pseudoyu/agent-skills
+npx skills add pseudoyu/agent-skills
 ```
 
 ### Codex
